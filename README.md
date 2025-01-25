@@ -20,7 +20,7 @@ This project strictly adheres to low-level Python programming principles such as
 All these functionalities are implemented in a modular approach.
 
 ## Future Enhancements  
-1.GUI Implementation: A web-based or desktop interface for a better user experience.
-2.Machine Learning Integration: Implement ML-based recommendations using collaborative filtering.
-3.Database Storage: Use SQL/NoSQL databases for persistent data storage.
-4.Improved Performance: Optimize similarity computations for large datasets.
+1.GUI Implementation: A web-based or desktop interface for a better user experience.  
+2.Machine Learning Integration: Implement ML-based recommendations using collaborative filtering.  
+3.Database Storage: Use SQL/NoSQL databases for persistent data storage.  
+4.Improved Performance: Optimize similarity computations for large datasets.   
